@@ -1,5 +1,5 @@
 # Chat GPT Amoled dark CSS 🎨
-Custom user styles for Open AI Chat GPT which includes mobile friendly styles and amoled friendly
+Beautiful custom user styles for Open AI Chat GPT which includes mobile friendly styles and amoled friendly
 
 ### 🗒️ NOTE
 > styles may not work if open ai adds changes to their website. feel free to open issue / pr if something looks broken
