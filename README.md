@@ -5,10 +5,12 @@ Beautiful custom user styles for Open AI Chat GPT which includes mobile friendly
 > styles may not work if open ai adds changes to their website. feel free to open issue / pr if something looks broken
 
 ## 📱 Mobile App
-you can use https://gonative.io/ and add these styles under `website overrides` tab to generate IOS/Android app. 
-
-Or download pre built APK from here - 
+you can use https://gonative.io/ and add these styles under `website overrides` tab to generate IOS/Android app. Or download pre built APK from here - 
 https://gonativeio.s3.amazonaws.com/static/639e3c918a69f6731f4705eb/app-release.apk
+
+## 💻 Style webpage
+install userstyle extentions like [Animo](https://chrome.google.com/webstore/detail/amino/pbcpfbcibpcbfbmddogfhcijfpboeaaf?hl=en) or [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) and input the styles from `styles.css` file for https://chat.openai.com/chat webpage
+
 
 ## 🖼️ Screenshots
 
