@@ -1,7 +1,7 @@
+> ⚠️ THIS REPO IS NO LONGER MAINTAINED AND IS OUTDATED BECAUSE OPEN AI CHAGING THE SITE FREQUENTLY.
+
 # Chat GPT Amoled dark CSS 🎨
 Beautiful custom user styles for Open AI Chat GPT which includes mobile friendly styles and amoled friendly
-
-> ⚠️ THIS REPO IS NO LONGER MAINTAINED AND IS OUTDATED
 
 ### 🗒️ NOTE
 > styles may not work if open ai adds changes to their website. feel free to open issue / pr if something looks broken
